@@ -1,0 +1,12 @@
+/home/shuridadog/wsos-bank/target/release/deps/libthiserror_impl-8c012cd2a8f8f80f.so: /home/shuridadog/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/lib.rs /home/shuridadog/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/ast.rs /home/shuridadog/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/attr.rs /home/shuridadog/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/expand.rs /home/shuridadog/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/fmt.rs /home/shuridadog/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/generics.rs /home/shuridadog/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/prop.rs /home/shuridadog/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/valid.rs
+
+/home/shuridadog/wsos-bank/target/release/deps/thiserror_impl-8c012cd2a8f8f80f.d: /home/shuridadog/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/lib.rs /home/shuridadog/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/ast.rs /home/shuridadog/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/attr.rs /home/shuridadog/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/expand.rs /home/shuridadog/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/fmt.rs /home/shuridadog/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/generics.rs /home/shuridadog/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/prop.rs /home/shuridadog/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/valid.rs
+
+/home/shuridadog/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/lib.rs:
+/home/shuridadog/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/ast.rs:
+/home/shuridadog/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/attr.rs:
+/home/shuridadog/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/expand.rs:
+/home/shuridadog/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/fmt.rs:
+/home/shuridadog/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/generics.rs:
+/home/shuridadog/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/prop.rs:
+/home/shuridadog/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/valid.rs:

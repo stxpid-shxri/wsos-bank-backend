@@ -1,0 +1,3 @@
+cargo:rerun-if-changed=build/main.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/shuridadog/wsos-bank/target/bpfel-unknown-unknown/release/build/typenum-f5ec2bc8422d584f/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/shuridadog/wsos-bank/target/bpfel-unknown-unknown/release/build/typenum-f5ec2bc8422d584f/out/op.rs
